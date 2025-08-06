@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+/target/
+
+# Java
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+!pom.xml
